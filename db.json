@@ -1,0 +1,29 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "Post One",
+            "body": "This is a body",
+            "publishedAt": "10-10-2021"
+        },
+        {
+            "id": 12,
+            "title": "Post One",
+            "body": "This is a body",
+            "publishedAt": "10-10-2021"
+        },
+        {
+            "id": 13,
+            "title": "Post One",
+            "body": "This is a body",
+            "publishedAt": "10-10-2021"
+        }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "name": "Chris Admin",
+            "email": "chris@admin.com"
+        }
+    ]
+}
